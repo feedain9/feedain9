@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **django, flask, apis,...**
 
-- 📫 How to reach me **armeniaarmenia95@gmail.com**
+- 📫 How to reach me **contact@tarielgabrielyan.fr**
 
 - 📄 Know about my experiences [https://tarielgabrielyan.fr/files/cv_utt.pdf](https://tarielgabrielyan.fr/files/cv_utt.pdf)
 
