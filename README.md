@@ -9,15 +9,9 @@
 
 - 🌱 I’m currently learning **Front-end, Javascript and Swiftui**
 
-- 👨‍💻 All of my projects are available at [https://tarielgabrielyan.fr](https://tarielgabrielyan.fr)
-
-- 💬 Ask me about **django, flask, apis,...**
+- 💬 Ask me about **django, webscraping, apis,...**
 
 - 📫 How to reach me **contact@tarielgabrielyan.fr**
-
-- 📄 Know about my experiences [https://tarielgabrielyan.fr/files/cv_utt.pdf](https://tarielgabrielyan.fr/files/cv_utt.pdf)
-
-- ⚡ Fun fact **I learn back-end in 2 months and fund lot of things in very little time**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
