@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm feedain</h1>
 <h3 align="center">A passionate software engineer and back-end developper</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=feedain9&label=Profile%20views&color=0e75b6&style=flat" alt="feedain9" /> </p>
-
-<p align="left"> <a href="https://twitter.com/armsoftdev" target="blank"><img src="https://img.shields.io/twitter/follow/armsoftdev?logo=twitter&style=for-the-badge" alt="armsoftdev" /></a> </p>
-
 - 🔭 I’m currently working on [LeSecteur](https://lesecteur.fr), [Kpopalerts.fr](https://kpopalerts.fr)
 
 - 🌱 I’m currently learning **Next.js, Electron.js and React Native**
