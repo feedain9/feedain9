@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/armsoftdev" target="blank"><img src="https://img.shields.io/twitter/follow/armsoftdev?logo=twitter&style=for-the-badge" alt="armsoftdev" /></a> </p>
 
-- 🔭 I’m currently working on [Le Secteur des Bons plans](https://lesecteur.fr), [Kpopalerts.fr](https://kpopalerts.fr)
+- 🔭 I’m currently working on [LeSecteur](https://lesecteur.fr), [Kpopalerts.fr](https://kpopalerts.fr)
 
 - 🌱 I’m currently learning **Next.js, Electron.js and React Native**
 
