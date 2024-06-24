@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm feedain</h1>
 <h3 align="center">A software engineer</h3>
 
-- 🔭 I’m currently working on [Email-Verifier](https://email-verifier.app), [Kpopalerts.fr](https://kpopalerts.fr)
+- 🔭 I’m currently working on [Email-Verifier](https://email-verifier.app), [Yadulink](https://yadul.ink)
 
 - 🌱 I’m currently learning **Next.js, Electron.js and React Native**
 
